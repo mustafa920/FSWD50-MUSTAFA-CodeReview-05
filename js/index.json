@@ -1,0 +1,64 @@
+const movie = [
+{
+    "name": "Day Light",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5Mzk0MzQ1Ml5BMl5BanBnXkFtZTgwODg5NDgwMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "like": 12,
+},
+{
+    "name": "Lord Of The Ring",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbnERKmC42iOsXMrAnCI2B6j-eArEOgdQ-646kKob0fn9UVWf",
+    "like": 20,
+},
+{
+    "name": "Dumb And Dumber",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://resizing.flixster.com/xdMEli9oJJ-y5242xwqcqOOfKys=/206x305/v1.bTsxMTE4OTgxMTtqOzE3OTA0OzEyMDA7ODAwOzEyMDA",
+    "like": 11,
+},
+{
+    "name": "Dead Pool 2",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://ia.media-imdb.com/images/M/MV5BZGFlMzg5N2MtYTNkMC00ZDNlLWFhMDMtYmE3YzlhY2ExMTM1XkEyXkFqcGdeQXVyNTc5NjI1MDI@._CR187,221,1643,924_UX1248_UY702._SY351_SX624_AL_.jpg",
+    "like": 17,
+},
+{
+    "name": "The Fault",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://www.herinterest.com/wp-content/uploads/2015/01/20-Cute-Romance-Movies_01.jpg",
+    "like": 20,
+},
+{
+    "name": "Frozen in Love",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "http://kinostorm.net/uploads/posts/2018-01/1517407253_zamerzshie-v-lyubvi-2018-frozen-in-love.jpg",
+    "like": 17,
+},
+{
+    "name": "Despicable me",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://static.rogerebert.com/uploads/movie/movie_poster/despicable-me-2010/large_4zHJhBSY4kNZXfhTlmy2TzXD51M.jpg",
+    "like": 22,
+},
+{
+    "name": "alhybe",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://img.roya.tv/imageserv/Size800Q40/images/programs/618/HSfoNyOLDcXdNSM1jqcF39bkll94u5WiUmxClhWf.png",
+    "like": 15,
+},
+{
+    "name": "Bad body3",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2018/05/Bad-Boys-3.jpg",
+    "like": 23,
+},
+{
+    "name": "Hacker",
+    "text": "The text may be short (10-40 words) or longer (60-80 words). PLEASE! Try to keep to these limits, or I'll be up all night reading all of them (and ...",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAiXVebZZUgI8GGA2tGkamAJ8kALEs10wVWYG_oTc4pLCHwLsqQ",
+    "like": 12,
+}];
+
+
+var num = [10, 12, 11, 13, 16, 16, 17, 18, 19, 10, 11]
