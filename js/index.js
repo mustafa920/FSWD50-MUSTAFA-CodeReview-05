@@ -27,20 +27,15 @@
      }
  }
 //here is the sort
-
+/*
 const propComparator = (proplike) =>
   (a, b) => a[proplike] == b[proplike] ? 0 : a[proplike] > b[proplike] ? -1 : 1
 
 movie.sort(propComparator('like'))
-console.log("By like", movie);
+console.log("By like", movie);*/
 
 
-function Movie(){
-    var a = document.getElementById('demo11').value;
-    var b = document.getElementById('demo22').value;
-    var c = document.getElementById('demo33').value;
-    document.getElementById('colum').innerHTML += " this is the name  of the movie " +  a  + b + " $<img src='"+ c +"'>" ;
-};
+
 
 $(document).ready(function() {
 
